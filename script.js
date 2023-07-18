@@ -3,7 +3,7 @@ $(document).ready(function() {
   var TITLE = 'English Learners by Select School Districts in CT, 2018-19';
 
   // `false` for vertical column chart, `true` for horizontal bar chart
-  var HORIZONTAL = false;
+  var HORIZONTAL = true;
 
 	// `false` for individual bars, `true` for stacked bars
   var STACKED = false;  
